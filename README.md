@@ -1,2 +1,2 @@
-# Mezuniyet-Projesi
-Mezuniyet Projesi Kodland Python Pro
+Bu projenin amacı dünya'yı daha iyi bir yere çevirmeye ve iklim değişikliğini sonlandırmaya çalışmaktır. Küresel ısınma ve iklim değişikliği günümüzde bile etkisini göstermeye başladı. Bunların kaynağı genel olarak sera gazları, karbondioksit ve metan gazlarıdır. Bu gazlar fabrika bacalarından ve (isminden de anlaşıldığı üzere) sera başçelerinden çıkmaktadır. Bunları sonlandırmak ya da en azından etkisini azaltmak,
+kısmen durdurmak için elimizden gelen her şeyi yapmamız gerekir. Bunun destekçileri olduğu gibi aynı zamanda umursamayanlar da var. Bu kişileri de destekçi yapmak için elinizden ne gelirse yapın, çekinmeyin! Arkadaşlarınız, onların arkadaşları, aileniz, uzak akrabalarınız, okul arkadaşlarınız ve tanıdığınız herkes! Bu yazıyı veya direkt olarak bu dosyayı arkadaşlarınıza gönderin veya paylaşın, ve Dünya'mızı yaşamın daha iyi olduğu bir yer yapalım!
